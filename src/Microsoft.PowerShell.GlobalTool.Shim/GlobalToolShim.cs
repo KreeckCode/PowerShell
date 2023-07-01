@@ -20,7 +20,7 @@ namespace Microsoft.PowerShell.GlobalTool.Shim
 
         /// <summary>
         /// Entry point for the global tool.
-        /// </summary>
+        
         /// <param name="args">Arguments passed to the global tool.</param>'
         /// <returns>Exit code returned by pwsh.</returns>
         public static int Main(string[] args)
